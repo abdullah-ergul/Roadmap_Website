@@ -1,3 +1,6 @@
+<?php
+
+?>
 <style>
   @property --angle {
     syntax: "<angle>";
